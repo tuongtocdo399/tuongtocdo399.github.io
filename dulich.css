@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    width: 100%;
+    color: red;
+    padding: 10px;
+    background-color: orange;
+    border: 1px solid orange ;
+}
+ul {
+    margin-left: 65px;
+    margin-bottom: 25px;
+    margin-top: 3px;
+}
+img{
+    width: 100px;
+}
+.aa{
+    margin: 10px;
+    display: flex;
+}
+.bb {
+    margin-left: 10px;
+}
+.xanh{
+    color: blue;
+margin: 10px;
+}
+.cam{
+    margin: 10px;
+    color: coral;
+}
+span{
+    color: green;
+}
+.ff{
+    margin-left: 5px;
+}
